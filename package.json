@@ -3,7 +3,7 @@
     "title": "HTML5 Basic Template",
     "description": "Import HTML5 basic headers into html file in brackets",
     "homepage": "https://github.com/tanishbaansal/html5-basic-headers",
-    "version": "1.0",
+    "version": "1.0.0",
     "author": "reyesj5",
     "engines": {
         "brackets": ">=0.24.0"
