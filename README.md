@@ -1,4 +1,3 @@
-# html5-template-brackets
+# html5-basic-headers
 
-This is a basic extension to import a basic template of html5 in your html file
-Just Click Shift+Tab or click on "EDIT > HTML5 template"
+Importing basic headers for an html file in brackets
