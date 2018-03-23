@@ -17,14 +17,12 @@ define(function (require, exports, module) {
                 "<!DOCTYPE html>" + "\n" +
                 "<html lang=\"en\">" + "\n" +
                 "<head>" + "\n" +
-                "<meta charset=\"UTF-8\">" + "\n" +
-                "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">" + "\n" +
-                
-                "<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">" + "\n" +
-                
+                "\t" + "<meta charset=\"UTF-8\">" + "\n" +
+                "\t" + "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">" + "\n" +
+                "\t" + "<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">" + "\n" +
                 "\t" + "<title> Title </title>" + "\n" +
                 "</head>" +"\n\n" +
-                "\t" + "<body>" + "\n" +
+                "<body>" + "\n" +
                 "\n" +
                 "</body>" + "\n" +
                 "</html>" +"\n"                
