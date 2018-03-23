@@ -20,12 +20,12 @@ define(function (require, exports, module) {
                 "\t" + "<meta charset=\"UTF-8\">" + "\n" +
                 "\t" + "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">" + "\n" +
                 "\t" + "<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">" + "\n" +
-                "\t" + "<title> Title </title>" + "\n" +
-                "</head>" +"\n\n" +
+                "\t" + "<title></title>" + "\n" +
+                "</head>" +"\n" +
                 "<body>" + "\n" +
                 "\n" +
                 "</body>" + "\n" +
-                "</html>" +"\n"                
+                "</html>"                
             ;
             
             var insertionPos = editor.getCursorPos();
