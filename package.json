@@ -1,10 +1,10 @@
 {
-    "name": "tanishbaansal.html5template",
-    "title": "HTML5 Template",
-    "description": "This is a basic extension to import a basic template of html5 in your html file",
-    "homepage": "https://github.com/tanishbaansal/html5-template-bracket",
-    "version": "1.0.0",
-    "author": "tanishbaansal",
+    "name": "reyesj5.html5template",
+    "title": "HTML5 Basic Template",
+    "description": "Import HTML5 basic headers into html file in brackets",
+    "homepage": "https://github.com/tanishbaansal/html5-basic-headers",
+    "version": "1.0",
+    "author": "reyesj5",
     "engines": {
         "brackets": ">=0.24.0"
     }
